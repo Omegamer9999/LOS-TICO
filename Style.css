@@ -56,9 +56,10 @@ h2 {
     text-align: center;
 }
 
-ul{
-    text-align:center;
+ol{
+    text-align:left;
 }
 li{
     list-style-position: inside;
 }
+ol.u {list-style-type: none;}
