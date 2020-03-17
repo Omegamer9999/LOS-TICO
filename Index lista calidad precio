@@ -21,18 +21,22 @@
   
 </head>
 <body>
-	<ul>
-  		<li>1.Realme X2</li>
-  		<li>2.Xiaomi Mi 9T</li>
-  		<li>3.Redmi Note 8 Pro</li>
-  		<li>4.Redmi Note 8T</li>
-  		<li>5.Xiaomi Mi A3</li>
-  		<li>6.Realme 5 Pro</li>
-  		<li>7.Xiaomi Mi 9 Lite</li>
-  		<li>8.Samsung Galaxy A50</li>
-  		<li>9.Samsung Galaxy M30s</li>
-  		<li>10.Motorola One Action</li>
+	<ol>
+      <li>Realme X2</li>
+  		<li>Xiaomi Mi 9T</li>
+  		<li>Redmi Note 8 Pro</li>
+  		<li>Redmi Note 8T</li>
+  		<li>Xiaomi Mi A3</li>
+  		<li>Realme 5 Pro</li>
+  		<li>Xiaomi Mi 9 Lite</li>
+  		<li>Samsung Galaxy A50</li>
+  		<li>Samsung Galaxy M30s</li>
+  		<li>Motorola One Action</li>
   		
-	</ul>
+	</ol>
 </body>
+</html>
+   </table>
+  
+  </body>
 </html>
