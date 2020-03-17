@@ -21,8 +21,8 @@
 	  </head>
 	  
 	 <body>
-	   <h2>Nombre del móvil</h2>
-	   <img src="enlace" alt="La Foto">
+	   <h2>iPhone xs Max</h2>
+	   <img src="https://www.maxmovil.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/c/o/comprar_iphone_xs_max_oro.jpg" alt="iPhone xs Max">
 	
 
 	<table style="width:100%">
@@ -36,13 +36,13 @@
 	    <th>Precio</th>
 	  </tr >
 	  <tr>
-	    <td>lo</td>
-	    <td>que</td>
-	    <td>sea</td>
-	    <td>lo</td>
-	    <td>pones</td>
-	    <td>preferiblemete</td>
-	    <td>aqui</td>
+	    <td>4</td>
+	    <td> 12mpx, gran angular y teleobjetivo y doble estabilizador óptico</td>
+	    <td>3174 mAh</td>
+	    <td>iOS</td>
+	    <td> Apple A12 Bionic/6</td>
+	    <td>512 GB</td>
+	    <td>1099</td>
 	  </tr>
 	</table>
 	  
