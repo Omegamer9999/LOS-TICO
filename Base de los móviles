@@ -22,7 +22,7 @@
   
  <body>
    <h2>Nombre del móvil</h2>
-   <img src="enlace" alt="La Foto">
+   <img src="enlace" alt="La Foto" style="width:400px">
 
 <table style="width:100%">
   <tr>
