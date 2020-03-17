@@ -1,11 +1,8 @@
-head {
-  background-color:rgb(23, 58, 58)
-}
 
-title {
+h1 {
   color: white;
   text-align: center;
-}
+  background-color:#22006e;}
 
 *{
 	margin: 0;
@@ -14,11 +11,6 @@ title {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
-head{
-	background: #313D52;
-}
-
 header{
 	width: 100%;
 }
@@ -53,3 +45,4 @@ header{
 body {
 background-color:rgb(188, 231, 231)
 }
+table {margin:auto;}
