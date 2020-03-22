@@ -63,3 +63,15 @@ li{
     list-style-position: inside;
 }
 ol.u {list-style-type: none;}
+
+table {
+   width: 100%;
+}
+th, td {
+   width: 50%;
+   text-align: centre;
+   vertical-align: top;
+}
+caption {
+   padding: 1em;
+}
