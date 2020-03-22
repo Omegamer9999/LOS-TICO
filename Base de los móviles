@@ -27,21 +27,34 @@
 <table style="width:100%">
   <tr>
     <th>RAM</th>
+	  <td>6GB</td>
+	</tr>
+	<tr>
     <th>Cámaras</th> 
+	  <td>16+12,2 MP
+Zoom óptico x1,8
+Doble OIS
+UltraDepth</td>
+	</tr>
+	<tr>
     <th>Batería</th>
+	 <td>3.700 mAh</td>
+	 </tr>
+	<tr>
     <th>S.O</th>
+    <td>Android</td>
+	</tr>
+	<tr>
     <th>CPU/Puntuación</th>
+    <td>Snapdragon 855/7</td>
+		</tr>
+	<tr>
     <th>Almacenamiento</th>
+    <td>64/128 GB</td>
+	</tr>
+	<tr>
     <th>Precio</th>
-  </tr >
-  <tr>
-    <td>lo</td>
-    <td>que</td>
-    <td>sea</td>
-    <td>lo</td>
-    <td>pones</td>
-    <td>preferiblemete</td>
-    <td>aqui</td>
+    <td>800/900€</td>
   </tr>
 </table>
   
